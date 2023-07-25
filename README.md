@@ -1,2 +1,2 @@
-# Prueba_Tecnica_Colsubsidio
-Prueba tecnica en colsubsidio para tecnico analista de datos
+# App_analisis_ventas
+App en streamlit con graficos de plotly para mostrar el reporte de ventas de determinado periodo. 
